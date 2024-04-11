@@ -8,6 +8,10 @@ The TABMON repository documents and making clearly available all the repositorie
 
 ## List of repositories
 
+### Related to WP1: designing a transnational monitoring network
+
+- [WP1-data-transfer](https://github.com/NINAnor/WP1-data-transfer/tree/main?tab=readme-ov-file): Repository documenting the routine for transfering the data from Google Cloud to our serveur
+
 ## Acknowledgement
 
 THe TABMON project is funded by [biodiversa+](https://www.biodiversa.eu/about-us/) program.
