@@ -10,7 +10,13 @@ The TABMON repository documents and making clearly available all the repositorie
 
 ### Related to WP1: designing a transnational monitoring network
 
-- [WP1-data-transfer](https://github.com/NINAnor/WP1-data-transfer/tree/main?tab=readme-ov-file): Repository documenting the routine for transfering the data from Google Cloud to our serveur
+- [WP1-data-transfer](https://github.com/NINAnor/WP1-data-transfer/tree/main?tab=readme-ov-file): Repository documenting the routine for transfering the data from Google Cloud to our server
+
+### Related to WP2: AI for deriving novel biodiversity insight from acoustic recordings
+
+- [birdnetfs](https://github.com/NINAnor/birdnetfs): Use birdnet on data stored on a remote server
+
+### Related to WP3: Data integration and EBV showcases
 
 ## Acknowledgement
 
