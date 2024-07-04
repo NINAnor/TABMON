@@ -15,6 +15,7 @@ The TABMON repository documents and making clearly available all the repositorie
 ### Related to WP2: AI for deriving novel biodiversity insight from acoustic recordings
 
 - [birdnetfs](https://github.com/NINAnor/birdnetfs): Use birdnet on data stored on a remote server
+- [birdnet2sqlite](https://github.com/NINAnor/birdnet2sqlite): Gather and convert birdnet result files into a `.sqlite` database
 
 ### Related to WP3: Data integration and EBV showcases
 
