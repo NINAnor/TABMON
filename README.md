@@ -16,6 +16,7 @@ The TABMON repository documents and making clearly available all the repositorie
 
 - [birdnetfs](https://github.com/NINAnor/birdnetfs): Use birdnet on data stored on a remote server
 - [birdnet2sqlite](https://github.com/NINAnor/birdnet2sqlite): Gather and convert birdnet result files into a `.sqlite` database
+- [Classification Pipeline](https://github.com/BenMcEwen1/TABMON-Classification-Pipeline): Working repository for the classification pipeline including model inference and fine-tuning as well as embedding generation and uncertainty sampling
 
 ### Related to WP3: Data integration and EBV showcases
 
